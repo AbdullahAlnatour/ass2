@@ -39,7 +39,7 @@ for (i = size2-1; i >= 0 ; i--)
 }
 Console.WriteLine();
 
-//Ass 3
+//Ass 2 part 3
 Console.WriteLine("Enter text: ");
 string ?text = Console.ReadLine();
 
